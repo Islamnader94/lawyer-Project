@@ -1,0 +1,5 @@
+django-simple-history
+django-currentuser
+djangorestframework
+rest-framework-generic-relations
+djangorestframework_simplejwt
